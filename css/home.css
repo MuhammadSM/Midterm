@@ -1,0 +1,27 @@
+
+
+img{
+	position: relative;
+	left:35px;
+	width: 45%;
+	max-width:463px;
+	height: 30%;
+	max-height:308.75px;
+	margin:15px;
+	border-radius: 100px;
+	display: inline-block;
+}
+
+.welcomeAddress{
+	position:absolute;
+	font-size: 18px;
+	text-align: center;
+	width: 40%;
+	margin: 50px;
+	max-width: 463px;
+	height:30%;
+	max-height: 308.75px;
+	left: 50%;
+	display: inline-block;
+	top: 190px;
+}

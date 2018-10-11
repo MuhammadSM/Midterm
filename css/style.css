@@ -1,0 +1,42 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	background: transparent;
+	background-color: #00000f;
+	color:white;
+}
+
+h1{
+	font-size: 50px;
+}
+
+
+
+.navigationButtons{
+	display: inline-block;
+	width: 100px;
+	margin: 20px;
+	border: 2px white solid;
+	text-align: center;
+	border-radius: 15px;
+	transition: 0.1s;
+	margin: 15px;
+}
+
+a{
+	color: white;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+.navigationButtons:hover{
+	background-color:rgba(244,244,244,0.3);
+}
